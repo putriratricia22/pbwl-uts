@@ -1,0 +1,14 @@
+{
+    "name": "acer/putri_pbwl-uts",
+    "description": "UTS PBWL",
+    "type": "project",
+    "require": {
+        "php": "^8.0"
+    },
+    "authors": [
+        {
+            "name": "Putri Ratricia",
+            "email": "putriratricia224@gmail.com"
+        }
+    ]
+}
